@@ -54,3 +54,7 @@ To declare these plugins as dependencies for your project, add to `.claude/setti
 ```
 
 Team members will be prompted to install the marketplace and plugins when they open the project.
+
+## License
+
+MIT © Fabrica, Inc. — see [LICENSE](LICENSE). Created and maintained by Tim Garthwaite.
