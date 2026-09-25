@@ -15,7 +15,7 @@
         "source": "url",
         "url": "https://github.com/fabrica-land/claude-code-event-listeners.git"
       },
-      "homepage": "https://github.com/mividtim/claude-code-event-listeners"
+      "homepage": "https://github.com/fabrica-land/claude-code-event-listeners"
     },
     {
       "name": "deps",
@@ -25,7 +25,7 @@
         "source": "url",
         "url": "https://github.com/fabrica-land/claude-code-plugin-deps.git"
       },
-      "homepage": "https://github.com/mividtim/claude-code-plugin-deps"
+      "homepage": "https://github.com/fabrica-land/claude-code-plugin-deps"
     },
     {
       "name": "agency",
@@ -35,7 +35,7 @@
         "source": "url",
         "url": "https://github.com/fabrica-land/claude-code-agency.git"
       },
-      "homepage": "https://github.com/mividtim/claude-code-agency"
+      "homepage": "https://github.com/fabrica-land/claude-code-agency"
     },
     {
       "name": "el-slack",
@@ -45,7 +45,7 @@
         "source": "url",
         "url": "https://github.com/fabrica-land/claude-code-el-slack.git"
       },
-      "homepage": "https://github.com/mividtim/claude-code-el-slack"
+      "homepage": "https://github.com/fabrica-land/claude-code-el-slack"
     },
     {
       "name": "el-sendgrid",
@@ -55,7 +55,7 @@
         "source": "url",
         "url": "https://github.com/fabrica-land/claude-code-el-sendgrid.git"
       },
-      "homepage": "https://github.com/mividtim/claude-code-el-sendgrid"
+      "homepage": "https://github.com/fabrica-land/claude-code-el-sendgrid"
     },
     {
       "name": "el-coderabbit",
@@ -65,7 +65,7 @@
         "source": "url",
         "url": "https://github.com/fabrica-land/claude-code-el-coderabbit.git"
       },
-      "homepage": "https://github.com/mividtim/claude-code-el-coderabbit"
+      "homepage": "https://github.com/fabrica-land/claude-code-el-coderabbit"
     },
     {
       "name": "el-pr-checks",
@@ -75,7 +75,7 @@
         "source": "url",
         "url": "https://github.com/fabrica-land/claude-code-el-pr-checks.git"
       },
-      "homepage": "https://github.com/mividtim/claude-code-el-pr-checks"
+      "homepage": "https://github.com/fabrica-land/claude-code-el-pr-checks"
     },
     {
       "name": "el-associations",
@@ -85,7 +85,7 @@
         "source": "url",
         "url": "https://github.com/fabrica-land/claude-code-el-associations.git"
       },
-      "homepage": "https://github.com/mividtim/claude-code-el-associations"
+      "homepage": "https://github.com/fabrica-land/claude-code-el-associations"
     },
     {
       "name": "el-http-poll",
@@ -95,7 +95,7 @@
         "source": "url",
         "url": "https://github.com/fabrica-land/claude-code-el-http-poll.git"
       },
-      "homepage": "https://github.com/mividtim/claude-code-el-http-poll"
+      "homepage": "https://github.com/fabrica-land/claude-code-el-http-poll"
     },
     {
       "name": "el-github-mentions",
@@ -105,7 +105,7 @@
         "source": "url",
         "url": "https://github.com/fabrica-land/claude-code-el-github-mentions.git"
       },
-      "homepage": "https://github.com/mividtim/claude-code-el-github-mentions"
+      "homepage": "https://github.com/fabrica-land/claude-code-el-github-mentions"
     },
     {
       "name": "el-ipc",
@@ -115,7 +115,7 @@
         "source": "url",
         "url": "https://github.com/fabrica-land/claude-code-el-ipc.git"
       },
-      "homepage": "https://github.com/mividtim/claude-code-el-ipc"
+      "homepage": "https://github.com/fabrica-land/claude-code-el-ipc"
     },
     {
       "name": "personai",
@@ -125,7 +125,7 @@
         "source": "url",
         "url": "https://github.com/fabrica-land/claude-code-personai.git"
       },
-      "homepage": "https://github.com/mividtim/claude-code-personai"
+      "homepage": "https://github.com/fabrica-land/claude-code-personai"
     },
     {
       "name": "recoup",
@@ -135,7 +135,7 @@
         "source": "url",
         "url": "https://github.com/agiterra/recoup-claude-code.git"
       },
-      "homepage": "https://github.com/mividtim/claude-code-recoup"
+      "homepage": "https://github.com/agiterra/recoup-claude-code"
     }
   ]
 }
