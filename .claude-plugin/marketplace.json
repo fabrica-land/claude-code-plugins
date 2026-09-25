@@ -13,7 +13,7 @@
       "category": "productivity",
       "source": {
         "source": "url",
-        "url": "https://github.com/mividtim/claude-code-event-listeners.git"
+        "url": "https://github.com/fabrica-land/claude-code-event-listeners.git"
       },
       "homepage": "https://github.com/mividtim/claude-code-event-listeners"
     },
@@ -23,7 +23,7 @@
       "category": "productivity",
       "source": {
         "source": "url",
-        "url": "https://github.com/mividtim/claude-code-plugin-deps.git"
+        "url": "https://github.com/fabrica-land/claude-code-plugin-deps.git"
       },
       "homepage": "https://github.com/mividtim/claude-code-plugin-deps"
     },
@@ -33,7 +33,7 @@
       "category": "productivity",
       "source": {
         "source": "url",
-        "url": "https://github.com/mividtim/claude-code-agency.git"
+        "url": "https://github.com/fabrica-land/claude-code-agency.git"
       },
       "homepage": "https://github.com/mividtim/claude-code-agency"
     },
@@ -43,7 +43,7 @@
       "category": "productivity",
       "source": {
         "source": "url",
-        "url": "https://github.com/mividtim/claude-code-el-slack.git"
+        "url": "https://github.com/fabrica-land/claude-code-el-slack.git"
       },
       "homepage": "https://github.com/mividtim/claude-code-el-slack"
     },
@@ -53,7 +53,7 @@
       "category": "productivity",
       "source": {
         "source": "url",
-        "url": "https://github.com/mividtim/claude-code-el-sendgrid.git"
+        "url": "https://github.com/fabrica-land/claude-code-el-sendgrid.git"
       },
       "homepage": "https://github.com/mividtim/claude-code-el-sendgrid"
     },
@@ -63,7 +63,7 @@
       "category": "productivity",
       "source": {
         "source": "url",
-        "url": "https://github.com/mividtim/claude-code-el-coderabbit.git"
+        "url": "https://github.com/fabrica-land/claude-code-el-coderabbit.git"
       },
       "homepage": "https://github.com/mividtim/claude-code-el-coderabbit"
     },
@@ -73,37 +73,37 @@
       "category": "productivity",
       "source": {
         "source": "url",
-        "url": "https://github.com/mividtim/claude-code-el-pr-checks.git"
+        "url": "https://github.com/fabrica-land/claude-code-el-pr-checks.git"
       },
       "homepage": "https://github.com/mividtim/claude-code-el-pr-checks"
     },
     {
       "name": "el-associations",
-      "description": "Association enrichment sidecar plugin for el. Enrich incoming events with memory retrieval — keyword search + optional LLM filter. Self-registers with el-sidecar v0.9.0+.",
+      "description": "Association enrichment sidecar plugin for el. Enrich incoming events with memory retrieval \u2014 keyword search + optional LLM filter. Self-registers with el-sidecar v0.9.0+.",
       "category": "productivity",
       "source": {
         "source": "url",
-        "url": "https://github.com/mividtim/claude-code-el-associations.git"
+        "url": "https://github.com/fabrica-land/claude-code-el-associations.git"
       },
       "homepage": "https://github.com/mividtim/claude-code-el-associations"
     },
     {
       "name": "el-http-poll",
-      "description": "HTTP polling event source for the el plugin. Wait for URLs to match expected status and body content — useful for health checks, deploy waits, and resource availability.",
+      "description": "HTTP polling event source for the el plugin. Wait for URLs to match expected status and body content \u2014 useful for health checks, deploy waits, and resource availability.",
       "category": "productivity",
       "source": {
         "source": "url",
-        "url": "https://github.com/mividtim/claude-code-el-http-poll.git"
+        "url": "https://github.com/fabrica-land/claude-code-el-http-poll.git"
       },
       "homepage": "https://github.com/mividtim/claude-code-el-http-poll"
     },
     {
       "name": "el-github-mentions",
-      "description": "GitHub PR/issue mention watcher for the el plugin. Persistent server with SQLite buffering — no missed comments.",
+      "description": "GitHub PR/issue mention watcher for the el plugin. Persistent server with SQLite buffering \u2014 no missed comments.",
       "category": "productivity",
       "source": {
         "source": "url",
-        "url": "https://github.com/mividtim/claude-code-el-github-mentions.git"
+        "url": "https://github.com/fabrica-land/claude-code-el-github-mentions.git"
       },
       "homepage": "https://github.com/mividtim/claude-code-el-github-mentions"
     },
@@ -113,17 +113,17 @@
       "category": "productivity",
       "source": {
         "source": "url",
-        "url": "https://github.com/mividtim/claude-code-el-ipc.git"
+        "url": "https://github.com/fabrica-land/claude-code-el-ipc.git"
       },
       "homepage": "https://github.com/mividtim/claude-code-el-ipc"
     },
     {
       "name": "personai",
-      "description": "Persistent agent identity — memory vault, journal, association search, boot sequence. The foundation for agents that survive context compaction.",
+      "description": "Persistent agent identity \u2014 memory vault, journal, association search, boot sequence. The foundation for agents that survive context compaction.",
       "category": "productivity",
       "source": {
         "source": "url",
-        "url": "https://github.com/mividtim/claude-code-personai.git"
+        "url": "https://github.com/fabrica-land/claude-code-personai.git"
       },
       "homepage": "https://github.com/mividtim/claude-code-personai"
     },
@@ -133,7 +133,7 @@
       "category": "productivity",
       "source": {
         "source": "url",
-        "url": "https://github.com/mividtim/claude-code-recoup.git"
+        "url": "https://github.com/agiterra/recoup-claude-code.git"
       },
       "homepage": "https://github.com/mividtim/claude-code-recoup"
     }
